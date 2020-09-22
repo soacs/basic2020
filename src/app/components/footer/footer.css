@@ -1,0 +1,21 @@
+
+div {
+    background-color: royalblue;
+    color: rgb(0, 0, 0);
+    font-family: Arial;
+    font-size: larger;
+    top: 0px;
+    margin: 0px;
+    padding: 5px;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    background-color: lawngreen;
+    font-family: Arial;
+    font-size: larger;
+    top: 0px;
+    margin: 0px;
+    padding: 5px;
+    text-align: center;
+}

@@ -1,0 +1,28 @@
+
+div {
+    background-color: turquoise;
+    color: rgb(0, 0, 0);
+    font-family: Arial;
+    font-size: larger;
+    top: 0px;
+    margin: 0px;
+    padding: 5px;
+}
+h1 {
+    color: rgb(0, 0, 0);
+    background-color: turquoise;
+    font-family: Arial;
+    font-size: medium;
+    top: 0px;
+    margin: 0px;
+    padding: 5px;
+}
+.thumbnail {
+  font-family: Arial;
+  font-size: larger;
+}
+
+.caption {
+  font-family: Arial;
+  font-size: 24px;
+}
